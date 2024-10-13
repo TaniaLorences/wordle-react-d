@@ -21,3 +21,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# Siguiente añadido por Irene para no subirlo a producción, a github
+package-lock.json 
